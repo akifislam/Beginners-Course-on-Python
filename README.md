@@ -27,13 +27,15 @@ All in One <br>
 
 3. [CS50 (2019) - David J. Malan - Lecture 6 - Python](https://youtu.be/fL308_-Kbt0)
     This video is a part of Harvard's CS50 course. This tutorial might be comperatively more difficult to learn for the beginners because CS50 students learn Scratch and C before Python.
+4. [Programming Hero | Jhankar Mahbub](https://www.youtube.com/c/ProgrammingHero/videos)
+This is one of the best YouTube channel for learning interesting things about Python. It covers automating messenger with PyAutoGUI, making Alexa with Python etc. This channel mainly shows the usages of various modules in Python.
 
 # Video Resources to learn the beauty of Computer Science
 - [CS50's Introduction to Computer Science (2020)](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&ab_channel=CS50) <br>
 This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. This course is the best introduction to computer science course I have ever got on the internet. I highly recommend to all to watch this free course on YouTube or Edx.
 
 # Books to Read for Python
-Before reading any Python books, make sure if that book is written for Python 3. There is a huge difference between Python 2 and Python 3. 
+Before reading any Python book, make sure if that book is written for Python 3. There is a huge difference between Python 2 and Python 3. 
 - [পাইথন দিয়ে প্রোগ্রামিং শেখা | Tamim Shahriar Subeen](https://www.rokomari.com/book/143309/python-diye-programing-shekha) <br>
  - Head First Python
 
