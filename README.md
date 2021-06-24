@@ -19,13 +19,23 @@ All in One <br>
 [Day 5](https://youtu.be/EBU9l23m1wA) <br>
 
 # Video Resources to Learn Python
+ 1. [Python for Beginners [English] - Programming with Mosh](https://youtu.be/_uQrJ0TkZlc) <br>
+    In this 6 hours long video, I learnt the basic Syntax of Python. It also covers Django (Web dev with Python), Machine Learning Basics, Excel Automation, Object Oriented Basics etc)
+
+2. [Learn from a Googlers - Python Fundamentals [Bengali] - Zulkarnine Mahmud](https://youtu.be/Z6JjqHxT6oM) <br>
+    The 1.5 hours long video covers basic Python syntax and file Operation.
+
+3. [CS50 (2019) - David J. Malan - Lecture 6 - Python](https://youtu.be/fL308_-Kbt0)
+    This video is a part of Harvard's CS50 course. This tutorial might be comperatively more difficult to learn for the beginners because CS50 students learn Scratch and C before Python.
 
 # Video Resources to learn the beauty of Computer Science
+- [CS50's Introduction to Computer Science (2020)](https://www.youtube.com/watch?v=YoXxevp1WRQ&list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8&ab_channel=CS50) <br>
+This is CS50, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming. This course is the best introduction to computer science course I have ever got on the internet. I highly recommend to all to watch this free course on YouTube or Edx.
 
-# Some English Books to Read for Python
-
-# Some Bangla Books to Read for Python
-
+# Books to Read for Python
+Before reading any Python books, make sure if that book is written for Python 3. There is a huge difference between Python 2 and Python 3. 
+- [পাইথন দিয়ে প্রোগ্রামিং শেখা | Tamim Shahriar Subeen](https://www.rokomari.com/book/143309/python-diye-programing-shekha) <br>
+ - Head First Python
 
 
  
@@ -33,13 +43,15 @@ Thanks to **Arduino Community Bangladesh** and **US Embassy Dhaka** for organisi
 
 
 # Groups & Pages to Follow for Next Events :
+- [Arduino Community Bangladesh | Facebook Page](https://www.facebook.com/ArduBD) <br>
+- [Online Program of Makerspace | US Embassy Dhaka | Facebook Group](https://www.facebook.com/groups/245395799880682) <br>
 
 # Special Thanks to :
- - Munem Shahriar from Tinkers
- - Mohammad Ruhul Ameen from Tinkers
+ - Munem Shahriar Bhaia from Tinkers
+ - Mohammad Ruhul Ameen Bhaia from Tinkers
  - Asma Abbasi Apu from US Embassy
 
-# Contact Me
+# Contact Me for Queries
  - Email : **iamakifislam@gmail.com (Recommended)**
  - Facebook : https://www.facebook.com/AkifIslamOfficial/
 
