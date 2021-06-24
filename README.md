@@ -11,7 +11,7 @@ Day 5 :
 All in One : 
 
 # Class Recordings :
-[YouTube Playlist](https://www.youtube.com/playlist?list=PLIjGmNoXlc22Te-eGx9NN3xXG1uTv6DiC)
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLIjGmNoXlc22Te-eGx9NN3xXG1uTv6DiC) <br>
 [Day 1] (https://youtu.be/F2YSYZ0L5yk) <br>
 [Day 2] (https://youtu.be/jQCNTi5ytxw) <br>
 [Day 3] (https://youtu.be/PzQhJaD0T_0) <br>
