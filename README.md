@@ -25,9 +25,9 @@ All in One <br>
 2. [Learn from a Googlers - Python Fundamentals [Bengali] - Zulkarnine Mahmud](https://youtu.be/Z6JjqHxT6oM) <br>
     The 1.5 hours long video covers basic Python syntax and file Operation.
 
-3. [CS50 (2019) - David J. Malan - Lecture 6 - Python](https://youtu.be/fL308_-Kbt0)
+3. [CS50 (2019) - David J. Malan - Lecture 6 - Python](https://youtu.be/fL308_-Kbt0)<br>
     This video is a part of Harvard's CS50 course. This tutorial might be comperatively more difficult to learn for the beginners because CS50 students learn Scratch and C before Python.
-4. [Programming Hero | Jhankar Mahbub](https://www.youtube.com/c/ProgrammingHero/videos)
+4. [Programming Hero | Jhankar Mahbub](https://www.youtube.com/c/ProgrammingHero/videos)<br>
 This is one of the best YouTube channel for learning interesting things about Python. It covers automating messenger with PyAutoGUI, making Alexa with Python etc. This channel mainly shows the usages of various modules in Python.
 
 # Video Resources to learn the beauty of Computer Science
