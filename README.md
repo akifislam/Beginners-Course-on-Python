@@ -39,9 +39,19 @@ Before reading any Python book, make sure if that book is written for Python 3. 
 - [পাইথন দিয়ে প্রোগ্রামিং শেখা | Tamim Shahriar Subeen](https://www.rokomari.com/book/143309/python-diye-programing-shekha) <br>
  - Head First Python
 
-
+# Online Judges to Practise Problem Solving
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) <br>
+- [CSES](https://cses.fi/problemset) <br>
+- [UVA Online Judge](https://onlinejudge.org/) <br>
+- [LightOJ](https://lightoj.com/) <br>
+- [Codeforces](https://codeforces.com/) <br>
  
-Thanks to **Arduino Community Bangladesh** and **US Embassy Dhaka** for organising this amazing workshop.
+# Some Projects to Explore :
+- [Codeforces AutoTracker | Web Scraping ](https://github.com/akifislam/CodeforcesAutoTracker) <br>
+- [Book Scraper | Web Scraping](https://github.com/akifislam/Web-Scrapping-Projects)
+- [Paper Headline Scraper | Web Scraping](https://github.com/akifislam/Web-Scrapping-Projects)
+- [Bulk Email Sender / Corona Virus Newsletter](https://github.com/akifislam/AutoEmail-CoronaVirusUpdate) <br>
+
 
 
 # Groups & Pages to Follow for Next Events :
@@ -49,9 +59,9 @@ Thanks to **Arduino Community Bangladesh** and **US Embassy Dhaka** for organisi
 - [Online Program of Makerspace | US Embassy Dhaka | Facebook Group](https://www.facebook.com/groups/245395799880682) <br>
 
 # Special Thanks to :
- - Munem Shahriar Bhaia from Tinkers
- - Mohammad Ruhul Ameen Bhaia from Tinkers
- - Asma Abbasi Apu from US Embassy
+ - Munem Shahriar Bhaia from Tinkers & **Arduino Community Bangladesh**
+ - Mohammad Ruhul Ameen Bhaia from Tinkers & **Arduino Community Bangladesh**
+ - Asma Abbasi Apu from **US Embassy - Dhaka**
 
 # Contact Me for Queries
  - Email : **iamakifislam@gmail.com (Recommended)**
