@@ -3,7 +3,7 @@ This repository contains all the study materials *(like slides, video recordings
 
 
 # Slides
-All in One <br>
+[All in One](https://docs.google.com/presentation/d/1UhusBzJ3XjHd_WIw_5bA7cbBYkz_DUVH15SUl8R0kHc/edit?usp=sharing) <br>
 [Day 1](https://docs.google.com/presentation/d/1CRlt7Nr9dO_jQKeSDlGTTuV2b5xb0NeD0at7Ci6OqeU/edit?usp=sharing) <br>
 [Day 2](https://docs.google.com/presentation/d/1dFKA9Ti3EvPIw4VeREGRc5H0QuCVmBdX081h9omSTGo/edit?usp=sharing) <br>
 [Day 3](https://docs.google.com/presentation/d/16AynbCqnU4TAnnklpZ4RBdtTYO3NkQqP3aB0nGIAR-M/edit?usp=sharing) <br>
